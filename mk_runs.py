@@ -1,13 +1,13 @@
 #! /usr/bin/env python
 #
-#   script generator for project="2021-S1-MU-45"
+#   script generator for project="2018-S1-MU-45"
 #
 #
 
 import os
 import sys
 
-project="2021-S1-MU-45"
+project="2018-S1-MU-45"
 #        obsnums per source (make it negative if not added to the final combination)
 on = {}
 
