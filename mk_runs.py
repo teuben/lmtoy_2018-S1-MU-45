@@ -18,7 +18,7 @@ on['L1157-B1'] = [
 
 #        common parameters per source on the first dryrun (run1, run2)
 pars1 = {}
-pars1['L1157-B1'] = "dv=250 dw=250 extent=250"
+pars1['L1157-B1'] = "dv=250 dw=250 extent=150"
 
 #        common parameters per source on subsequent runs (run1a, run2a)
 pars2 = {}
