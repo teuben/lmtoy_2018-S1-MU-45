@@ -1,16 +1,14 @@
-84475 -0,-5 bufpos?
-84683 -0   partial map
-84744 -0
-84748 -0,-3 (in time)
-84752 -0,-3 (in time)
-84756 -0,-3 (in time)
-84760 -0
+84475 -0,-5 bufpos?	# pix_list=-0,-5
+84683 -0   partial map	# pix_list=-0
+84744 -0	        # pix_list=-0
+84748 -0,-3 (in time)	# pix_list=-0,-3
+84752 -0,-3 (in time)	# pix_list=-0,-3
+84756 -0,-3 (in time)	# pix_list=-0,-3
+84760 -0		# pix_list=-0
 85984 ok
 85988 ok
 85992 ok
-86082 -3 (in time)
+86082 -3 (in time)	# pix_list=-3
 86086 ok
 86231 ok
-86235 -3
-
-   
+86235 -3		# pix_list=-3
