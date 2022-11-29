@@ -20,3 +20,6 @@ summary:
 	@for p in $(PID); do \
 	(echo $$p;  cd $(WORK_LMT)/$$p; mk_summary1.sh > README.html); \
 	done
+
+q:
+	squeue -u lmtslr_umass_edu | awk '{print NR-1,$$0}'
