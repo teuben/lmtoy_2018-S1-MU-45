@@ -9,3 +9,7 @@ A total of 16 obsnums were taken, of which 15 are ok. One map is partial, and it
 
 Current RMS is down to 9.3 mK.
 
+In the Nov data beam 9 looks perfect (not affected by doppler), but the
+*Spectra for the whole map, overplotted for each beam* look like that
+beam has a deviant spectrum
+
