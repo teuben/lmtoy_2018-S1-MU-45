@@ -13,3 +13,7 @@ In the Nov data beam 9 looks perfect (not affected by doppler), but the
 *Spectra for the whole map, overplotted for each beam* look like that
 beam has a deviant spectrum
 
+
+## files
+
+L1157-B1a.reg   - two ds9 regions, one is the formal center, the polygon some area where "all" of the central emission is.
