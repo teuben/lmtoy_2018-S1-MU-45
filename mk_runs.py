@@ -21,8 +21,9 @@ project="2018-S1-MU-45"
 #        obsnums per source (make it negative if not added to the final combination)
 on = {}
 
+#   84752 looks bad
 on['L1157-B1'] = [              
-                  84475,-84683, 84744, 84748, 84752, 84756, 84760,           # 30-may-2019
+                  84475,-84683, 84744, 84748,-84752, 84756, 84760,           # 30-may-2019
                   85984, 85988, 85992, 86082, 86086, 86231, 86235,           # through 8-nov-2019 
                  ]
 

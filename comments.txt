@@ -2,13 +2,16 @@
 # pars1['L1157-B1'] = "dv=250 dw=250 extent=150"
 # pars2['L1157-B1'] = "pix_list=0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15"
 #
+#  
 84475 -0,-5 bufpos?	# pix_list=-0,-5
 84683 BAD -0   partial map	# pix_list=-0
 84744 -0	        # pix_list=-0
 84748 -0,-3 (in time)	# pix_list=-0,-3
-84752 -0,-3 (in time)	# pix_list=-0,-3
+84752 looks bad -0,-3 (in time)	# pix_list=-0,-3
 84756 -0,-3 (in time)	# pix_list=-0,-3
 84760 -0		# pix_list=-0
+#    something odd about beam 9 in the Nov data following here
+#    noise is also higher
 85984 ok
 85988 ok
 85992 ok
