@@ -1,7 +1,7 @@
 #
 
 
-PID  = 2018-S1-MU-45
+include PID
 
 help:
 	@echo PID=$(PID)
@@ -14,7 +14,6 @@ help:
 
 runs:
 	./mk_runs.py
-
 
 summary:
 	@for p in $(PID); do \
