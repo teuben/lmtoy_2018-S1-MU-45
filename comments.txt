@@ -1,9 +1,9 @@
 # 2018-S1-MU-45
 #
 #  
-84475 -0,-5 bufpos?	             # pix_list=-0,5
-84683 QAFAIL -0   partial map	     # pix_list=-0
-84744 -0	                     # pix_list=-0
+84475 bufpos?	             # pix_list=-0,5
+84683 partial map	     # pix_list=-0
+84744 	                     # pix_list=-0
 84748 -0,-3 (in time)	             # pix_list=-0,3
 84752 -0,-3 (in time)    	     # pix_list=-0,1,2,3
 84756 -0,-3 (in time)	             # pix_list=-0,3
